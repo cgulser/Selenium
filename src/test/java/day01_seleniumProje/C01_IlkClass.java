@@ -8,7 +8,7 @@ public class C01_IlkClass {
 
 
         /* En ilkle haliyle bir otomasyonu yapmak için
-  Classımıza otomasyon için gerekli olan webdriver'in yerini göstermemniz gerekir.
+  Classımıza otomasyon için gerekli olan webdriver'in yerini göstermeniz gerekir.
   bunun için java kutuphanesinden System.setProperty() methodunu kullaniriz...
   method 2 parametre istemektedir.
  --> ilki kullanacagımız driver : webdriver.chrome.driver
